@@ -1,4 +1,4 @@
-# 2017-Assignment of Tests
+# 2017 Assignments of Tests
 The assignment of tests for XJTU_SE_15
 
 持续更新中
