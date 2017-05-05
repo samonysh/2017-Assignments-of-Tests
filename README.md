@@ -16,3 +16,5 @@ The assignment of tests for XJTU_SE_15
 2. 两项考试不得同时进行
 
 3. 尽量将考试间间隔时间控制在3天以上
+
+![](https://raw.githubusercontent.com/samonysh/2017-Assignments-of-Tests/master/%E8%80%83%E8%AF%95%E5%AE%89%E6%8E%9201.jpg)
