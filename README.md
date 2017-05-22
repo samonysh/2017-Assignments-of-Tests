@@ -26,6 +26,7 @@ The assignment of tests for XJTU_SE_15
 
 ![](https://raw.githubusercontent.com/samonysh/2017-Assignments-of-Tests/master/算法.png)
 
+只有51和52有效，53和54只能看时间
 ![](https://raw.githubusercontent.com/samonysh/2017-Assignments-of-Tests/master/1718周.png)
 
 
